@@ -106,10 +106,10 @@
     "@algolia/logger-common" "4.3.1"
     "@algolia/requester-common" "4.3.1"
 
-"@apollo/federation@0.19.0", "@apollo/federation@^0.19.0":
-  version "0.19.0"
-  resolved "https://registry.yarnpkg.com/@apollo/federation/-/federation-0.19.0.tgz#b0e43f034e31ef391f44be01db3a8ef0e0b4565b"
-  integrity sha512-8cd8ftHgqaseDTN7RJrROT6FT1xy8RV2Qb9BGhhqPVMHqf08GtidBqQTk6hv1UDR0qu/TRZA6J4Kh7oXeMrPQg==
+"@apollo/federation@0.19.1", "@apollo/federation@^0.19.0":
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/@apollo/federation/-/federation-0.19.1.tgz#4d4f227a2da1efb42f6569114fb0aae7b03af505"
+  integrity sha512-32l2XoyDZfqwCObm2iazwa2vlsEYHzBLwsoCJccd6pdW8PAoK+IoKWJqNrMTwVYYNvRvd6YI+VtZPGo460GqDA==
   dependencies:
     apollo-graphql "^0.5.0"
     apollo-server-env "^2.4.5"
