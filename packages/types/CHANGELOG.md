@@ -1,5 +1,11 @@
 # @graphql-mesh/types
 
+## 0.12.1
+
+### Patch Changes
+
+- 032e5e0e: Add 'useHTTPS' flag to gRPC config to allow SSL connections without providing a root CA
+
 ## 0.12.0
 
 ### Minor Changes
